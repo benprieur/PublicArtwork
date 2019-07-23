@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.7.2"
+github "SwiftyJSON/SwiftyJSON" "4.1.0"
+github "holyturt/SwiftOverpassWrapper" "v1.0.3"
+github "tadija/AEXML" "4.3.0"
